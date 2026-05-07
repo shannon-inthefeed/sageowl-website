@@ -261,10 +261,6 @@ p { font-size: 1.0625rem; line-height: 1.8; }
   transition: background var(--transition);
 }
 .feature-item:hover { background: rgba(255,255,255,.16); }
-.feature-icon {
-  font-size: 1.8rem;
-  margin-bottom: 14px;
-}
 .feature-item h4 { color: var(--cream); margin-bottom: 8px; }
 .feature-item p { color: rgba(247,239,227,.78); font-size: .95rem; }
 
